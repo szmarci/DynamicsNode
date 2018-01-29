@@ -10,7 +10,7 @@ import { MetadataUtil } from "./MetadataUtil";
 
 
 import path = require("path");
-import edge = require("edge");
+import edge = require("edge-js");
 var debug = require("debug")("dynamicsnode");
 var debugQueries = require("debug")("dynamicsnode:queries");
 
